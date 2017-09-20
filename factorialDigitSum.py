@@ -4,6 +4,9 @@ def fact(n):
     else:
         return n * fact(n-1)
 
-factNum = fact(10)
+# Call the fact function passing 100 as the argument
+factNum = fact(100)
 
-print sum([int(i) for i in str(factNum)])
+# By using str(factNum) we iterate over the each digit in the large number and sum() them
+# while parsing back to an integer int(i)
+print(sum([int(i) for i in str(factNum)]))

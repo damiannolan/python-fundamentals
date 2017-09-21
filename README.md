@@ -7,17 +7,21 @@ to provide a better understanding of Python as a programming language. A link to
 [here!](https://emerging-technologies.github.io/problems/python-fundamentals.html)
 
 1. Hello World
+
 A basic "Hello World" program.
 
 2. Current Time
+
 Prints the current time and date to the console.
 
 3. FizzBuzz
+
 Prints the numbers from 1 to 100, except for the following conditions. For multiples of three print “Fizz” instead of
 the number, and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print
 “FizzBuzz”.
 
 4. Factorial Digit Sum
+
 Calculates the sum of the digits of the factorial of a number. n! means n x (n − 1) … x 3 x 2 x 1. For example, 10! = 10
 x 9 x … x 3 x 2 x 1 = 3628800, and the sum of the digits in the number 10! is 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27. Find the
 sum of the digits in the number 100!

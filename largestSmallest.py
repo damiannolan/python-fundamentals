@@ -1,3 +1,6 @@
+# Problem 6 - Largest and Smallest
+# Simply use max() and min() to achieve the desired results
+
 lst = []
 
 num = int(input('How many numbers: '))

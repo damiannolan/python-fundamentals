@@ -6,6 +6,9 @@ This respoitory contains a series of basic Python scripts. These are a few probl
 to provide a better understanding of Python as a programming language. A link to the original problem sheet can be found
 [here!](https://emerging-technologies.github.io/problems/python-fundamentals.html)
 
+This repository can also be treated as a Python basics tutorial for beginners looking to develop an interest in
+Programming.
+
 ## Prerequistes
 
 Install Python 3 using [Homebrew](https://brew.sh/)

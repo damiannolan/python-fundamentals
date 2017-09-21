@@ -1,6 +1,9 @@
+# Problem 2 - Current Time
+
 import time;
 import datetime;
 
-print "Local current time is : ", time.asctime(time.localtime(time.time()))
+# Print the the date and time using 'time'
+print("Current time is : ", time.asctime(time.localtime(time.time())))
 
-print "Today's date is: ", datetime.date.today()
+print("Today's date is: ", datetime.date.today())

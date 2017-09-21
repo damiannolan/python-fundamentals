@@ -6,6 +6,14 @@ This respoitory contains a series of basic Python scripts. These are a few probl
 to provide a better understanding of Python as a programming language. A link to the original problem sheet can be found
 [here!](https://emerging-technologies.github.io/problems/python-fundamentals.html)
 
+## Prerequistes
+
+Install Python 3 using [Homebrew](https://brew.sh/)
+
+```
+brew install python3
+```
+ 
 **1. Hello World**
 
 A basic "Hello World" program.
@@ -56,4 +64,11 @@ z_next = z - ((z*z - x) / (2 * z))
 **10. Reverse String**
 
 A function that outputs the reverse of a string
+
+### Sources
+
 https://adriann.github.io/programming_problems.html
+
+http://wiki.c2.com/?FizzBuzzTest
+
+https://tour.golang.org/flowcontrol/8

@@ -7,7 +7,7 @@ to provide a better understanding of Python as a programming language. A link to
 [here!](https://emerging-technologies.github.io/problems/python-fundamentals.html)
 
 This repository can also be treated as a Python basics tutorial for beginners looking to develop an interest in
-Programming.
+programming.
 
 ## Prerequistes
 

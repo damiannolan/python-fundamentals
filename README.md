@@ -13,6 +13,7 @@ Install Python 3 using [Homebrew](https://brew.sh/)
 ```
 brew install python3
 ```
+## Problems
  
 **1. Hello World**
 
@@ -65,7 +66,7 @@ z_next = z - ((z*z - x) / (2 * z))
 
 A function that outputs the reverse of a string
 
-### Sources
+## Sources
 
 https://adriann.github.io/programming_problems.html
 

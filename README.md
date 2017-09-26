@@ -11,7 +11,8 @@ programming.
 
 ## Prerequistes
 
-Install Python 3 using [Homebrew](https://brew.sh/)
+If you are using OSX - Install Python 3 using [Homebrew](https://brew.sh/). Alternatively check out
+[Anaconda](https://www.anaconda.com/download/) - An open source distribution of Python.
 
 ```
 brew install python3

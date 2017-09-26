@@ -1,3 +1,6 @@
+# Problem 4 -  Find the factorial of a number n - eg: 5! = 5 * 4 * 3 * 2 * 1
+# Then add up the singles digits of the outcome
+
 def fact(n):
     if n == 0:
         return 1
